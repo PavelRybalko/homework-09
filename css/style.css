@@ -146,7 +146,8 @@ button {
 }
 
 .partners {
-  padding: 70px 0 57px 0;
+  padding-top: 70px;
+  padding-bottom: 57px;
   text-align: center;
   color: #333333;
 }
